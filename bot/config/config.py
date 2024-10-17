@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     API_HASH: str
 
 
-    REF_LINK: str = "https://t.me/coub/app?startapp=coub__marker_19255618"
+    REF_LINK: str = ""
 
 
 
